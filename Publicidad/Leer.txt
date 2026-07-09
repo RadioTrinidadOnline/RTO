@@ -1,0 +1,1 @@
+- En este apartado va toda la publicidad en PNG, JPEG, JPG, en el archivo config se puede configurar cada anuncio y su comportamiento.
