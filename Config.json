@@ -7,7 +7,7 @@
       "imagenes": [
         {
           "nombre_archivo": "PublicidadANTUEcoBoutique.png",
-          "descripcion": "Atención Cañete y alrededores. Los invitamos a visitar ANTU Eco Boutique...",
+          "descripcion": "Atención Cañete y alrededores. Los invitamos a visitar ANTU Eco Boutique..."
         }
       ]
     },
@@ -18,11 +18,11 @@
       "imagenes": [
         {
           "nombre_archivo": "Publicidad1.jpeg",
-          "descripcion": "Descripción de la primera imagen de VTR...",
+          "descripcion": "Descripción de la primera imagen de VTR..."
         },
         {
           "nombre_archivo": "Publicidad2.jpeg",
-          "descripcion": "¡Contrata tu plan de fibra óptica de 800 Mbps con VTR!...",
+          "descripcion": "¡Contrata tu plan de fibra óptica de 800 Mbps con VTR!..."
         }
       ]
     }
@@ -30,7 +30,7 @@
   "imagenes_sueltas": [
     {
       "nombre_archivo": "Publicidad_Suelta_1.jpeg",
-      "descripcion": "Esta es una imagen que no pertenece a ninguna carpeta de galería.",
+      "descripcion": "Esta es una imagen que no pertenece a ninguna carpeta de galería."
     }
   ]
 }
