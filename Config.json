@@ -3,7 +3,7 @@
     {
       "nombre_carpeta": "ANTUEcoBoutique",
       "descripcion_general": "ANTU Eco Boutique",
-      "unix_time": 1712444000,
+      "unix_time": 171244000,
       "imagenes": [
         {
           "nombre_archivo": "PublicidadANTUEcoBoutique.png",
@@ -14,7 +14,7 @@
     {
       "nombre_carpeta": "VTR",
       "descripcion_general": "Publicidad de servicios de telecomunicaciones VTR",
-      "unix_time": 1712444100,
+      "unix_time": 171244100,
       "imagenes": [
         {
           "nombre_archivo": "Publicidad1.jpeg",
@@ -29,7 +29,7 @@
   ],
   "imagenes_sueltas": [
     {
-      "nombre_archivo": "Publicidad.jpg",
+      "nombre_archivo": "Publicidad.jpg"
     }
   ]
 }
