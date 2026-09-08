@@ -12,6 +12,21 @@
       ]
     },
     {
+      "nombre_carpeta": "LaParrillaCarniceria",
+      "descripcion_general": "Publicidad para la Carniceria La Parrilla",
+      "unix_time": 171244100,
+      "imagenes": [
+        {
+          "nombre_archivo": "La Parrilla 1 DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "La Parrilla 1 DATA HORARIO.png",
+          "descripcion": ""
+        },
+      ]
+    },
+    {
       "nombre_carpeta": "VTR",
       "descripcion_general": "Publicidad de servicios de telecomunicaciones VTR",
       "unix_time": 171244100,
