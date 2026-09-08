@@ -17,13 +17,37 @@
       "unix_time": 1712441000,
       "imagenes": [
         {
-          "nombre_archivo": "La_Parrilla_1_DATA.png",
+          "nombre_archivo": "LaParrilla1DATA.png",
           "descripcion": ""
         },
         {
-          "nombre_archivo": "La_Parrilla_3_DATA.png",
+          "nombre_archivo": "LaParrilla2DATAHORARIO.png",
           "descripcion": ""
-        }
+        },
+        {
+          "nombre_archivo": "LaParrilla3DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "LaParrilla4DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "LaParrilla5DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "LaParrilla6DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "LaParrilla7DATA.png",
+          "descripcion": ""
+        },
+        {
+          "nombre_archivo": "LaParrilla8DATA.png",
+          "descripcion": ""
+        },
       ]
     },
     {
