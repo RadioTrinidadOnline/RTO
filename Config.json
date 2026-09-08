@@ -11,17 +11,17 @@
         }
       ]
     },
-    {
+      {
       "nombre_carpeta": "LaParrillaCarniceria",
       "descripcion_general": "Publicidad para la Carniceria La Parrilla",
-      "unix_time": 171244100,
+      "unix_time": 1712441000,
       "imagenes": [
         {
-          "nombre_archivo": "La Parrilla 1 DATA.png",
+          "nombre_archivo": "La_Parrilla_1_DATA.png",
           "descripcion": ""
         },
         {
-          "nombre_archivo": "La Parrilla 2 DATA HORARIO.png",
+          "nombre_archivo": "La_Parrilla_1_DATA_HORARIO.png",
           "descripcion": ""
         }
       ]
