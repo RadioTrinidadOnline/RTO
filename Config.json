@@ -7,7 +7,7 @@
       "imagenes": [
         {
           "nombre_archivo": "LaParrilla1DATA.png",
-          "descripcion": "🥩 Gabriela Mistral N° 336, Cerro Alto, Comuna de Los Álamos, Región del Biobío. 🍖"
+          "descripcion": "🥩Gabriela Mistral N° 336, Cerro Alto, Comuna de Los Álamos, Región del Biobío.🍖"
         },
         {
           "nombre_archivo": "LaParrilla2DATAHORARIO2.png",
@@ -36,6 +36,21 @@
         {
           "nombre_archivo": "LaParrilla8DATA.png",
           "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre_carpeta": "VTR",
+      "descripcion_general": "Publicidad de servicios de telecomunicaciones VTR",
+      "unix_time": 1712441000,
+      "imagenes": [
+        {
+          "nombre_archivo": "Publicidad1.jpeg",
+          "descripcion": "🚀 ¡Vuela con 800 Mbps de Fibra VTR! Conecta todo sin límites. Contrata hoy al +56 9 6708 8446."
+        },
+        {
+          "nombre_archivo": "Publicidad2.jpeg",
+          "descripcion": "🍿 ¡Dale play a tus maratones! Disfruta de tus plataformas de streaming con VTR. Llama al +56 9 6708 8446. ⚡"
         }
       ]
     }
