@@ -1,17 +1,6 @@
 {
   "publicidad": [
     {
-      "nombre_carpeta": "ANTU Eco Boutique",
-      "descripcion_general": "ANTU Eco Boutique",
-      "unix_time": 171244000,
-      "imagenes": [
-        {
-          "nombre_archivo": "PublicidadANTUEcoBoutique.png",
-          "descripcion": "🛍️ ¡Atención Cañete! Ven a sorprenderte con ANTU Eco Boutique. Te esperamos en Pancaví 382, Villa Altos del Sol. ¡Dudas o consultas al +56 9 9797 9448! 🏡"
-        }
-      ]
-    },
-    {
       "nombre_carpeta": "La Parrilla Carnicería",
       "descripcion_general": "La Parrilla Carnicería",
       "unix_time": 1712441000,
